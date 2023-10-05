@@ -1,0 +1,14 @@
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\bin\Debug\net6.0\HTB_Visual_test.exe
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\bin\Debug\net6.0\HTB_Visual_test.deps.json
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\bin\Debug\net6.0\HTB_Visual_test.runtimeconfig.json
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\bin\Debug\net6.0\HTB_Visual_test.dll
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\bin\Debug\net6.0\HTB_Visual_test.pdb
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\HTB_Visual_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\HTB_Visual_test.AssemblyInfoInputs.cache
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\HTB_Visual_test.AssemblyInfo.cs
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\HTB_Visual_test.csproj.CoreCompileInputs.cache
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\HTB_Visual_test.dll
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\refint\HTB_Visual_test.dll
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\HTB_Visual_test.pdb
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\HTB_Visual_test.genruntimeconfig.cache
+C:\Users\Giozo\source\repos\HTB_Visual_test\HTB_Visual_test\obj\Debug\net6.0\ref\HTB_Visual_test.dll
